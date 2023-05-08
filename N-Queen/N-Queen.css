@@ -1,0 +1,12 @@
+#nQueenContainer td {
+    width: 80px;
+    height: 80px;
+    background-color: grey;
+    text-align: center;
+}
+
+td > * {
+    width: 50%;
+    height: 50%;
+    margin: auto;
+}
